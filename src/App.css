@@ -1,0 +1,24 @@
+main > h1 {
+  margin: 20px;
+}
+
+.callout{
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 20px;
+  background-color: #C0FFFE;
+  width: 18rem;
+  margin: 14px;
+}
+
+.callout image {
+  width: 285px;
+  height: 182px;
+}
+
+.callout button {
+  color: white;
+  background-color: #0f7ffa;
+  width: 132px;
+  height: 37px;
+}
